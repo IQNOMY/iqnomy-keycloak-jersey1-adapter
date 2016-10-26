@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>nl.asknow</groupId>
 		<artifactId>asknow-root</artifactId>
-		<version>1.4.8</version>
+		<version>1.5.0</version>
 		<relativePath>../asknow/pom.xml</relativePath>
 	</parent>
 
 	<groupId>com.iqnomy.commons</groupId>
 	<artifactId>iqnomy-keycloak-jersey1-adapter</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 	<name>IQNOMY Jersey 1.x server Keycloak</name>
 
